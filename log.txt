@@ -4,7 +4,15 @@ Daily css images
 Full portfolio on codepen: http://codepen.io/EleftheriaBatsou/full/WRPBPg/
 
 Day: 1
+Date: 14 - February
 Theme: Bear cub
 Find it
 	Codepen: http://codepen.io/EleftheriaBatsou/pen/zNbYVz
 	Github: https://eleftheriabatsou.github.io/d1-bear-cub-dailycssimages/
+	
+Day: 2
+Date: 15 - February
+Theme: E;ephant
+Find it
+	Codepen: http://codepen.io/EleftheriaBatsou/full/xgBJBr/
+	Github: https://eleftheriabatsou.github.io/d2-elephant-dailycssimages/
