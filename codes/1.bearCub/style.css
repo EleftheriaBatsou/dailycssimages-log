@@ -1,0 +1,192 @@
+body{
+  background: #ECEFF1; /*light grey */
+}
+
+#title{
+  margin-left: 40%;
+}
+
+/* An invisible box will be centered horizontally due to the following code*/
+.box{
+  /* Position relative means the element is positioned relative to its normal position, which would be the very top left corner as it is the first div in the body. */
+  
+  /* When the position is set to relative, using display: block; and margin:auto; will automatically center the box horizontally. */
+  position: relative;
+  margin: auto;
+  display: block;
+  /*optional background or border
+  border: solid 4px red;
+  */
+  margin-top: 1%;
+  width: 600px;
+  height: 420px;
+  background: none;
+}
+
+/* The width of the div is 50% and the height 67%. This means that the width is 50% of the box and the height 67% of the box. */
+.head{
+  position: absolute;
+  top: 16.5%;
+  left: 25%;
+  width: 50%;
+  height: 70%;
+  background: #B0BEC5; /* Light grey */
+  border-radius: 50%; /* To make a circle */
+}
+
+.left-ear{
+  position: absolute;
+  top: 6%;
+  left: -15%;
+  width: 48%;
+  height: 57%;
+  background: #B0BEC5; /* Light grey */
+  border-radius: 50%; /* To make a circle */
+}
+
+.right-ear{
+  position: absolute;
+  top: 6%;
+  right: -15%;
+  width: 48%;
+  height: 57%;
+  background: #B0BEC5; /* Light grey */
+  border-radius: 50%; /* To make a circle */
+}
+
+.eye-left{
+  position: absolute;
+  background: #263238; /* dark grey */
+  width: 34%;
+  height: 30%;
+  top: 25%;
+  left: 13%;
+  border-radius: 50%;
+  z-index: 3;
+}
+.eye-right{
+  position: absolute;
+  background: #263238; /* dark grey */
+  width: 34%;
+  height: 30%;
+  top: 25%;
+  right: 13%;
+  border-radius: 50%;
+  z-index: 3;
+}
+.pupil{
+  position: absolute;
+  width: 74%;
+  height: 70%;
+  top: 10%;
+  left: 23%;
+  border-radius: 50%;
+  background: black;
+}
+
+.outer-nose{
+  position: absolute;
+  width: 58%;
+  height: 63%;
+  top: 42%;
+  left: 22%;
+  border-radius: 50%;
+  background: #CFD8DC;
+  z-index: 4;
+}
+
+.inner-nose{
+  position: absolute;
+  width: 58%;
+  height: 43%;
+  top: 10%;
+  left: 22%;
+  border-radius: 40%;
+  background: #140514;
+  z-index: 4;
+  
+  -webkit-clip-path: polygon(20% 0%, 80% 0%, 100% 100%, 0% 100%);
+clip-path: polygon(20% 0%, 80% 0%, 100% 100%, 0% 100%);
+}
+
+.inner-nose-left{
+  position: absolute;
+  width: 26%;
+  height: 23%;
+  top: 26%;
+  left: 24%;
+  border-radius: 40%;
+  background: #000; 
+  z-index: 4;
+  
+  -webkit-clip-path: polygon(20% 0%, 80% 0%, 100% 100%, 0% 100%);
+clip-path: polygon(20% 0%, 80% 0%, 100% 100%, 0% 100%);
+}
+
+.inner-nose-right{
+  position: absolute;
+  width: 26%;
+  height: 23%;
+  top: 26%;
+  right: 24%;
+  border-radius: 40%;
+  background: #000; 
+  z-index: 4;
+  
+  -webkit-clip-path: polygon(20% 0%, 80% 0%, 100% 100%, 0% 100%);
+clip-path: polygon(20% 0%, 80% 0%, 100% 100%, 0% 100%);
+}
+
+.upper-mouth{
+  position: absolute;
+  width: 56%;
+  height: 15%;
+  top: 56%;
+  left: 23%;
+  border-radius: 40%;
+  background: #37474F; 
+  z-index: 4;
+  
+  -webkit-clip-path: polygon(21% 0, 81% 0, 100% 100%, 0 100%);
+clip-path: polygon(21% 0, 81% 0, 100% 100%, 0 100%);
+}
+
+.down-mouth{
+  position: absolute;
+  width: 55%;
+  height: 13%;
+  top: 65%;
+  left: 23.5%;
+  border-radius: 40%;
+  background: #37474F; 
+  z-index: 4;
+  
+  -webkit-clip-path: polygon(0 0, 100% 0, 87% 100%, 11% 100%);
+clip-path: polygon(0 0, 100% 0, 87% 100%, 11% 100%);
+}
+
+.black-void{
+  position: absolute;
+  width: 88%;
+  height: 50%;
+  top: 1%;
+  left: 5%;
+  border-radius: 50%;
+  background: black;
+}
+
+.tognue{
+  position: absolute;
+  width: 46%;
+  height: 57%;
+  top: 68%;
+  left: 28%;
+  border-radius: 10%;
+  background: pink;
+  
+  -webkit-clip-path: polygon(0 0, 100% 0, 78% 100%, 20% 100%);
+clip-path: polygon(0 0, 100% 0, 78% 100%, 20% 100%);
+  
+  z-index: 4;
+}
+
