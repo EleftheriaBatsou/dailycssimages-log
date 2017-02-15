@@ -1,0 +1,10 @@
+Daily css images
+
+#dailycssimages
+
+Day: 1
+Theme: Bear cub
+My image:
+Find it
+	Codepen:
+	Github:
