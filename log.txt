@@ -1,10 +1,10 @@
 Daily css images
 
 #dailycssimages
+Full portfolio on codepen: http://codepen.io/EleftheriaBatsou/full/WRPBPg/
 
 Day: 1
 Theme: Bear cub
-My image:
 Find it
-	Codepen:
-	Github:
+	Codepen: http://codepen.io/EleftheriaBatsou/pen/zNbYVz
+	Github: https://eleftheriabatsou.github.io/d1-bear-cub-dailycssimages/
