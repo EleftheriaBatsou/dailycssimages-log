@@ -12,7 +12,14 @@ Find it
 	
 Day: 2
 Date: 15 - February
-Theme: E;ephant
+Theme: Elephant
 Find it
 	Codepen: http://codepen.io/EleftheriaBatsou/full/xgBJBr/
 	Github: https://eleftheriabatsou.github.io/d2-elephant-dailycssimages/
+	
+Day: 3
+Date: 28 - February
+Theme: Beaver
+Find it
+	Codepen: http://codepen.io/EleftheriaBatsou/full/OpVaeK/ 
+	Github: https://eleftheriabatsou.github.io/d3-beaver-dailycssimages/
