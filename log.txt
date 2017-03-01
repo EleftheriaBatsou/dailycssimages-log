@@ -23,3 +23,10 @@ Theme: Beaver
 Find it
 	Codepen: http://codepen.io/EleftheriaBatsou/full/OpVaeK/ 
 	Github: https://eleftheriabatsou.github.io/d3-beaver-dailycssimages/
+	
+Day: 4
+Date: 1 - March
+Theme: Elephant
+Find it
+	Codepen: http://codepen.io/EleftheriaBatsou/full/BWorPM/
+	Github: https://eleftheriabatsou.github.io/d4-elephant-dailycssimages/
