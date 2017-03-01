@@ -30,3 +30,10 @@ Theme: Elephant
 Find it
 	Codepen: http://codepen.io/EleftheriaBatsou/full/BWorPM/
 	Github: https://eleftheriabatsou.github.io/d4-elephant-dailycssimages/
+	
+Day: 5
+Date: 1 - March
+Theme: Favourite Animal
+Find it
+	Codepen: http://codepen.io/EleftheriaBatsou/full/BWorPM/
+	Github: https://eleftheriabatsou.github.io/d4-elephant-dailycssimages/
