@@ -35,5 +35,5 @@ Day: 5
 Date: 1 - March
 Theme: Favourite Animal
 Find it
-	Codepen: http://codepen.io/EleftheriaBatsou/full/BWorPM/
-	Github: https://eleftheriabatsou.github.io/d4-elephant-dailycssimages/
+	Codepen: http://codepen.io/EleftheriaBatsou/full/LWGpGZ/
+	Github: https://eleftheriabatsou.github.io/d5-cuteAnimal-dailycssimages/
