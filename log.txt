@@ -37,3 +37,11 @@ Theme: Favourite Animal
 Find it
 	Codepen: http://codepen.io/EleftheriaBatsou/full/LWGpGZ/
 	Github: https://eleftheriabatsou.github.io/d5-cuteAnimal-dailycssimages/
+	
+	
+Day: 6
+Date: 5 - March
+Theme: Clock
+Find it
+	Codepen: http://codepen.io/EleftheriaBatsou/full/xqOMvQ/
+	Github: https://eleftheriabatsou.github.io/d6-clock-dailycssimages/
