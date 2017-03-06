@@ -45,3 +45,11 @@ Theme: Clock
 Find it
 	Codepen: http://codepen.io/EleftheriaBatsou/full/xqOMvQ/
 	Github: https://eleftheriabatsou.github.io/d6-clock-dailycssimages/
+
+
+Day: 7
+Date: 6 - March
+Theme: Ruler
+Find it
+	Codepen: http://codepen.io/EleftheriaBatsou/full/NprQKz/
+	Github: https://eleftheriabatsou.github.io/d7-ruler-dailycssimages/
