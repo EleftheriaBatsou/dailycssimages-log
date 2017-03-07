@@ -53,3 +53,11 @@ Theme: Ruler
 Find it
 	Codepen: http://codepen.io/EleftheriaBatsou/full/NprQKz/
 	Github: https://eleftheriabatsou.github.io/d7-ruler-dailycssimages/
+	
+
+Day: 8
+Date: 8 - March
+Theme: Notepad
+Find it
+	Codepen: http://codepen.io/EleftheriaBatsou/full/NpbXLL/
+	Github: https://eleftheriabatsou.github.io/d8-nodepad-dailycssimages/
