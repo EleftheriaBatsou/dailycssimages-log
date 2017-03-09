@@ -69,3 +69,12 @@ Theme: Calendar
 Find it
 	Codepen: http://codepen.io/EleftheriaBatsou/full/MpbMPQ/
 	Github: https://eleftheriabatsou.github.io/d9-calendar-dailycssimages/
+
+
+Day: 10
+Date: 10 - March
+Theme: Pencil-jar
+Find it
+	Codepen: http://codepen.io/EleftheriaBatsou/full/WpRmGv/
+	Github: https://eleftheriabatsou.github.io/d10-pencil-jar-dailycssimages/
+
