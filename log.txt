@@ -103,4 +103,12 @@ Find it
 	Github: https://eleftheriabatsou.github.io/d13-tacos-dailycssimages/
 	
 	
+Day: 14
+Date: 14 - March
+Theme: Cheesecake
+Find it
+	Codepen: http://codepen.io/EleftheriaBatsou/full/jBwyEd/
+	Github: https://eleftheriabatsou.github.io/d14-cheesecake-dailycssimages/
+	
+	
 
