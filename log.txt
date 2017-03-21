@@ -127,12 +127,20 @@ Find it
 	Github: https://eleftheriabatsou.github.io/d16-frankestein-dailycssimages/
 	
 	
-Day: 20
+Day: 17
 Date: 20 - March
 Theme: Zombie
 Find it
 	Codepen: http://codepen.io/EleftheriaBatsou/full/PpOypM/
 	Github: https://eleftheriabatsou.github.io/d17-zombie-dailycssimages/
+	
+
+Day: 18
+Date: 21 - March
+Theme: Vampire
+Find it
+	Codepen: http://codepen.io/EleftheriaBatsou/full/KWQGEz/
+	Github: https://eleftheriabatsou.github.io/d18-vampire-dailycssimages/
 	
 	
 
