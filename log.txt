@@ -143,4 +143,12 @@ Find it
 	Github: https://eleftheriabatsou.github.io/d18-vampire-dailycssimages/
 	
 	
+Day: 19
+Date: 22 - March
+Theme: Monster
+Find it
+	Codepen: http://codepen.io/EleftheriaBatsou/full/wJmprr/
+	Github: https://eleftheriabatsou.github.io/d19-monster-dailycssimages/
+	
+	
 
