@@ -151,4 +151,12 @@ Find it
 	Github: https://eleftheriabatsou.github.io/d19-monster-dailycssimages/
 	
 	
+Day: 20
+Date: 23 - March
+Theme: Monster
+Find it
+	Codepen: http://codepen.io/EleftheriaBatsou/full/KWRWJB/
+	Github: https://eleftheriabatsou.github.io/d20-monster-dailycssimages/
+	
+	
 
