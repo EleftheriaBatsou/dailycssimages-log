@@ -207,6 +207,14 @@ Find it
 	Github: https://eleftheriabatsou.github.io/d26-apple-app-store-icon-dailycssimages/
 	
 	
+Day: 27
+Date: 27 - March
+Theme: Bug
+Find it
+	Codepen: http://codepen.io/EleftheriaBatsou/full/gmjZQb/
+	Github: https://eleftheriabatsou.github.io/d27-bug-dailycssimages/
+	
+	
 	
 	
 
