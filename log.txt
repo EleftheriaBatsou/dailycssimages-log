@@ -214,6 +214,13 @@ Find it
 	Codepen: http://codepen.io/EleftheriaBatsou/full/gmjZQb/
 	Github: https://eleftheriabatsou.github.io/d27-bug-dailycssimages/
 	
+Day: 28
+Date: 27 - March
+Theme: Cogs
+Find it
+	Codepen: http://codepen.io/EleftheriaBatsou/full/gmdrpP/
+	Github: https://eleftheriabatsou.github.io/d28-cogs-dailycssimages/
+	
 	
 	
 	
