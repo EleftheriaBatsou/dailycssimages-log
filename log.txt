@@ -246,6 +246,14 @@ Find it
 	Github: https://eleftheriabatsou.github.io/d31-javascript-logo-dailycssimages/
 	
 	
+Day: 32
+Date: 29 - March
+Theme: Angular Logo
+Find it
+	Codepen: https://codepen.io/EleftheriaBatsou/full/aJQbmg/
+	Github: https://eleftheriabatsou.github.io/d32-angular-logo-dailycssimages/
+	
+	
 	
 	
 
