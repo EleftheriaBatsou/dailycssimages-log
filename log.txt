@@ -238,6 +238,14 @@ Find it
 	Github: https://eleftheriabatsou.github.io/d30-graph-bar-dailycssimages/
 	
 	
+Day: 31
+Date: 29 - March
+Theme: Javascript Logo
+Find it
+	Codepen: http://codepen.io/EleftheriaBatsou/full/EWdrNL/
+	Github: https://eleftheriabatsou.github.io/d31-javascript-logo-dailycssimages/
+	
+	
 	
 	
 
