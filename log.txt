@@ -253,6 +253,14 @@ Find it
 	Codepen: https://codepen.io/EleftheriaBatsou/full/aJQbmg/
 	Github: https://eleftheriabatsou.github.io/d32-angular-logo-dailycssimages/
 	
+
+Day: 33
+Date: 30 - March
+Theme: Vue JS Logo
+Find it
+	Codepen: http://codepen.io/EleftheriaBatsou/full/aJQjLg/
+	Github: https://eleftheriabatsou.github.io/d33-vue-js-logo-dailycssimages/
+	
 	
 	
 	
