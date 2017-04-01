@@ -262,6 +262,14 @@ Find it
 	Github: https://eleftheriabatsou.github.io/d33-vue-js-logo-dailycssimages/
 	
 	
+Day: 34
+Date: 1 - April
+Theme: React Logo
+Find it
+	Codepen: http://codepen.io/EleftheriaBatsou/full/Opdyyy/
+	Github: https://eleftheriabatsou.github.io/d34-react-logo-dailycssimages/
+	
+	
 	
 	
 
