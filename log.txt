@@ -294,6 +294,14 @@ Find it
 	Github: https://eleftheriabatsou.github.io/d37-laptop-dailycssimages/
 	
 	
+Day: 38
+Date: 7 - April
+Theme: Monitor
+Find it
+	Codepen: http://codepen.io/EleftheriaBatsou/full/vxqypy/
+	Github: https://eleftheriabatsou.github.io/d38-monitor-dailycssimages/
+	
+	
 	
 	
 
