@@ -300,6 +300,14 @@ Theme: Monitor
 Find it
 	Codepen: http://codepen.io/EleftheriaBatsou/full/vxqypy/
 	Github: https://eleftheriabatsou.github.io/d38-monitor-dailycssimages/
+
+
+Day: 39
+Date: 8 - April
+Theme: Keyboard
+Find it
+	Codepen: http://codepen.io/EleftheriaBatsou/full/EWBwEq/
+	Github: https://eleftheriabatsou.github.io/d39-keyboard-dailycssimages/
 	
 	
 	
