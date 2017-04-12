@@ -308,6 +308,14 @@ Theme: Keyboard
 Find it
 	Codepen: http://codepen.io/EleftheriaBatsou/full/EWBwEq/
 	Github: https://eleftheriabatsou.github.io/d39-keyboard-dailycssimages/
+
+
+Day: 40
+Date: 13 - April
+Theme: Nintendo
+Find it
+	Codepen: http://codepen.io/EleftheriaBatsou/full/EmxxoY/
+	Github: https://eleftheriabatsou.github.io/d40-nintendo-dailycssimages/
 	
 	
 	
