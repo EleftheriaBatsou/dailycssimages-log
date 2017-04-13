@@ -326,6 +326,14 @@ Find it
 	Github: https://eleftheriabatsou.github.io/d41-mascot-dailycssimages/
 	
 	
+Day: 42
+Date: 14 - April
+Theme: Mascot - fish
+Find it
+	Codepen: http://codepen.io/EleftheriaBatsou/full/mmyExr/
+	Github: https://eleftheriabatsou.github.io/d42-mascot-fish-dailycssimages/
+	
+	
 	
 	
 
