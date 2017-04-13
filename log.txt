@@ -318,6 +318,14 @@ Find it
 	Github: https://eleftheriabatsou.github.io/d40-nintendo-dailycssimages/
 	
 	
+Day: 41
+Date: 13 - April
+Theme: Mascot for a start-up
+Find it
+	Codepen: http://codepen.io/EleftheriaBatsou/full/JNoGyb/
+	Github: https://eleftheriabatsou.github.io/d41-mascot-dailycssimages/
+	
+	
 	
 	
 
