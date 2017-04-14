@@ -333,6 +333,14 @@ Find it
 	Codepen: http://codepen.io/EleftheriaBatsou/full/mmyExr/
 	Github: https://eleftheriabatsou.github.io/d42-mascot-fish-dailycssimages/
 	
+
+Day: 43
+Date: 14 - April
+Theme: Mascot - Critter
+Find it
+	Codepen: http://codepen.io/EleftheriaBatsou/full/RVNjqG/
+	Github: https://eleftheriabatsou.github.io/d43-mascot-dailycssimages/
+	
 	
 	
 	
