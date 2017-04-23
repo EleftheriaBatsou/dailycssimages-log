@@ -374,6 +374,14 @@ Find it
 	Github: https://eleftheriabatsou.github.io/d47-cake-dailycssimages/
 	
 	
+Day: 48
+Date: 23 - April
+Theme: Craft-Beer
+Find it
+	Codepen: https://codepen.io/EleftheriaBatsou/full/QvEoMP/
+	Github: https://eleftheriabatsou.github.io/d48-craft-beer-dailycssimages/
+	
+	
 	
 	
 	
