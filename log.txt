@@ -381,6 +381,15 @@ Find it
 	Codepen: https://codepen.io/EleftheriaBatsou/full/QvEoMP/
 	Github: https://eleftheriabatsou.github.io/d48-craft-beer-dailycssimages/
 	
+
+Day: 49
+Date: 23 - April
+Theme: Dance Dance Revolution Mat
+Find it
+	Codepen: https://codepen.io/EleftheriaBatsou/full/RVRmpa/
+	Github: https://eleftheriabatsou.github.io/d49-dance-dance-revolution-mat-dailycssimages/
+	
+	
 	
 	
 	
