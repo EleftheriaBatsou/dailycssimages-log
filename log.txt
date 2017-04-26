@@ -388,6 +388,14 @@ Theme: Dance Dance Revolution Mat
 Find it
 	Codepen: https://codepen.io/EleftheriaBatsou/full/RVRmpa/
 	Github: https://eleftheriabatsou.github.io/d49-dance-dance-revolution-mat-dailycssimages/
+
+
+Day: 50
+Date: 26 - April
+Theme: Party Dance
+Find it
+	Codepen: https://codepen.io/EleftheriaBatsou/full/YVNXOK/
+	Github: https://eleftheriabatsou.github.io/d50-party-dailycssimages/
 	
 	
 	
